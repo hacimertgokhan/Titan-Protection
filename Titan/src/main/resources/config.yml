@@ -1,0 +1,57 @@
+OPPassword: '1799'
+
+AntiCrash:
+  PlayerChatMessageCrash:
+    Kick: true
+    kickMessage: '&cYo do wrong :D'
+    cancelMessage: '&cYou cant do that !'
+  PlayerCommandPreprocessCrash:
+    Kick: true
+    kickMessage: '&cYo do wrong :D'
+    cancelMessage: '&cYou cant do that !'
+  InventoryClickEvent:
+    cancelMessage: '&cYou cant do that !'
+  SignChangeEvent:
+    Kick: true
+    MaxSignLong: 12
+    kickMessage: '&cYo do wrong :D'
+    cancelMessage: '&cYou cant do that !'
+
+Messages:
+  Nopermission: '&cYou dont have a permission !'
+  Reloaded: '&aPlugin reloaded !'
+  CommandDisable: '&fUnknow command, Please try another time.'
+  BlockedMessage: '&7Please try something else, Becuse this plugin have a ":"'
+  UserStealKick: '&6You try someone else account spoof !'
+
+SubCommands:
+  Discord:
+    Enable: true
+    URL: 'Yourperfectdiscordurl.com'
+  WebSite:
+    Enable: true
+    URL: 'Yourperfectwebsiteurl.com'
+  TeamSpeak:
+    Enable: true
+    URL: 'Yourperfectteamspeakurl.com'
+  Youtube:
+    Enable: true
+    URL: 'Yourperfectyoutubechannel.com'
+
+TitanAnnouncer:
+  Enable: true
+  RandomMessage: true
+  Cooldown: 1
+  Prefix: '&3&lTITAN &8&l▸ &r'
+  Messages:
+    - '&7If you wanna buy vip, &eClick yourbestwebsite.com'
+    - '&7Skywars, SkyBlock, Survival and more !'
+
+TFreeze:
+  WrongUsing: '&7/T|un|Freeze (Player)'
+  isntOnline: '&7Player not online'
+  playerFreezed: '&7You freezed '
+  playerUnFreezed: '&7You unfreezed '
+  youUnFreezed: '&7You unfreezed'
+  youFreezed: '&7You freezed'
+  noPerm: '&7You dont have a permission !'

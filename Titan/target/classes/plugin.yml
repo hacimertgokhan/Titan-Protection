@@ -1,0 +1,45 @@
+name: Titan
+version: Spigot
+main: com.airswiss.titan.titan.Titan
+prefix: Titan
+load: STARTUP
+authors: [Mixer, Mert]
+commands:
+  TitanP:
+    usage: /TitanP
+  Discord:
+    usage: /Discord
+  Dc:
+    usage: /Discord
+  Youtube:
+    usage: /Youtube
+  Yt:
+    usage: /Youtube
+  WebSite:
+    usage: /WebSite
+  Site:
+    usage: /WebSite
+  TeamSpeak:
+    usage: /TeamSpeak
+  Ts:
+    usage: /TeamSpeak
+  TFreeze:
+    usage: /TitanChat
+  TunFreeze:
+    usage: /TitanChat
+  TCheckOP:
+    usage: /TitanChat
+  TCheckid:
+    usage: /TitanChat
+  TCheckBan:
+    usage: /TCheckBan
+  TFKick:
+    usage: /TeamSpeak
+  TFoundid:
+    usage: /TeamSpeak
+  op:
+    usage: /op
+  oppassword:
+    usage: /oppassword
+  consoleop:
+    usage: /oppassword
